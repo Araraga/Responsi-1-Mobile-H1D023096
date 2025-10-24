@@ -20,9 +20,9 @@ class PemainAdapter(
 
             val colorRes = when (player.position) {
                 "Goalkeeper" -> R.color.pos_goalkeeper
-                "Defender", "Centre-Back", "Right-Back", "Left-Back" -> R.color.pos_defender
-                "Midfielder", "Defensive Midfield", "Central Midfield", "Attacking Midfield" -> R.color.pos_midfielder
-                "Forward", "Centre-Forward", "Second Striker", "Left Winger", "Right Winger" -> R.color.pos_forward
+                "Defender", "Centre-Back", "Right-Back", "Left-Back", "Defence"-> R.color.pos_defender
+                "Midfielder", "Defensive Midfield", "Central Midfield", "Attacking Midfield","Midfield","Left Midfield", "Right Midfield" -> R.color.pos_midfielder
+                "Forward", "Centre-Forward", "Second Striker", "Left Winger", "Right Winger", "Offence" -> R.color.pos_forward
                 else -> R.color.pos_default
             }
             binding.layoutBackground.setBackgroundColor(
