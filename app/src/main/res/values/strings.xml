@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IfUnsoedMobile</string>
+
+    <string name="welcome_text">
+        Sejarah Club Atlético de Madrid
+    </string>
+
+    <string name="inf_description">
+        Club Atlético de Madrid, S.A.D., yang umumnya dikenal sebagai Atlético Madrid, adalah sebuah klub sepak bola profesional Spanyol yang berkedudukan di Madrid. Klub ini berkompetisi di La Liga, divisi tertinggi dalam sistem liga sepak bola Spanyol. Didirikan pada 26 April 1903, klub ini awalnya menyandang nama Athletic Club Sucursal de Madrid.\n\n
+
+        Atlético Madrid memainkan pertandingan kandangnya di Stadion Riyadh Air Metropolitano, sebuah arena modern dengan kapasitas sekitar 70.000 penonton, yang sebelumnya juga dikenal sebagai Wanda Metropolitano dan Civitas Metropolitano. Klub ini memiliki julukan populer Los Colchoneros (Para Pembuat Kasur) dan Los Rojiblancos (Merah-Putih), yang merujuk pada seragam garis-garis merah dan putih khas mereka. Atlético Madrid juga memiliki rivalitas sengit dengan tetangga sekotanya, Real Madrid, dalam pertandingan yang dikenal sebagai Derbi Madrid.\n\n
+
+        Sebagai salah satu klub paling sukses di Spanyol, Atlético Madrid telah menikmati periode kesuksesan signifikan, terutama di bawah manajemen Diego Simeone, yang dikenal dengan gaya permainan disiplin dan pertahanan kuat. Klub ini telah mengoleksi 11 gelar La Liga, termasuk yang diraih pada musim 2013–14 dan 2020–21, serta 10 gelar Copa del Rey. Di kancah internasional, prestasinya mencakup 3 gelar UEFA Europa League, 3 gelar UEFA Super Cup, 1 Piala Interkontinental, dan 1 Piala Winners UEFA. Selain itu, Atlético Madrid juga telah tiga kali mencapai final UEFA Champions League.
+    </string>
+
+    <string name="next">Lanjut</string>
+    <string name="back">Kembali</string>
+
+    <string name="tim">Team Squad</string>
+    <string name="pelatih">Head Coach</string>
+    <string name="sejarah">Club History</string>
+</resources>
